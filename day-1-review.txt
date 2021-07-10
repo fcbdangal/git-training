@@ -1,0 +1,15 @@
+- version control system
+    - centralized
+    - distrubted
+        - SVN
+        - Git
+            - Github
+
+git basic command: 
+    - init, commit, diff, status, push, clone, reset, pull
+
+github remote repository: 
+    - create github account
+    - create github repository
+    - clone/pull remote repository in local
+    - push the changes to remote repository. 
